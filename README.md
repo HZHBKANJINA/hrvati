@@ -1,4 +1,4 @@
-# hrvati
+# idoli
 
 ## Project setup
 ```
